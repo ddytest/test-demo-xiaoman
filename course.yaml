@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "course_id": "course-e4b5d576-d9e",
+  "type": "official",
+  "title": "test_demo_xiaoman",
+  "description": "测试课程创建",
+  "lesson": "认识输入、权重与输出",
+  "theme": "neural",
+  "build_profile": "static",
+  "entry": "index.html"
+}
